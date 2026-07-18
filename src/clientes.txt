@@ -1,0 +1,2 @@
+Juan|Perez|Av. Los Lagos|123|Puerto Montt|Los Lagos|987654321|juan@gmail.com|Tour Gastronómico
+Maria|Lopez|Calle Central|45|Llanquihue|Los Lagos|912345678|maria@gmail.com|Excursión Cultural
