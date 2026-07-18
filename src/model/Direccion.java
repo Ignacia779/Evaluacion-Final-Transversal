@@ -50,11 +50,7 @@ public class Direccion {
 
     @Override
     public String toString() {
-        return "Calle: " + calle + "\n" +
-                "Número: " + numero + "\n" +
-                "Ciudad: " + ciudad + "\n" +
-                "Región: " + region;
-    }
+        return calle + " " + numero + ", " + ciudad + " (" + region + ")";    }
 }
 
 

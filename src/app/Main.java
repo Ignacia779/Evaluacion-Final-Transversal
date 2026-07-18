@@ -2,10 +2,18 @@ package app;
 
 import model.*;
 import service.ReservaService;
+import ui.LectorClientes;
 import java.time.LocalDate;
+import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
+        ArrayList<Cliente> clientes = LectorClientes.cargarClientes("data/clientes.txt");
+
+        for (Cliente c : clientes) {
+            System.out.println(c);
+        }
+
         //Crear Direccion y contacto
         Direccion direccionCliente = new Direccion("Los Roble", 34, "Puerto Varas", "los Lagos");
         Contacto contactoCliente = new Contacto("912345678", "cliente@gmail.com");

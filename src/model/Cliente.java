@@ -25,12 +25,14 @@ public class Cliente extends Persona implements Registrable{
 
     @Override
     public String toString(){
-        return "Cliente: " + super.toString() + " | Tipo de Tour: " + tipoTour;
-    }
+
+        return getNombre()+ " " + getApellido() + " | " + getDireccion() + " | " + getContacto() + " | " + tipoTour;    }
+
      @Override
     public String registrar(){
         return "Cliente registrado en el sistema";
      }
+
     @Override
     public String mostrarDatos() {
         return "Cliente:\n" + super.toString();
