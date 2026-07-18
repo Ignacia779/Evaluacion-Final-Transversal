@@ -31,6 +31,7 @@ Ejecuta el archivo Main.java desde el paquete app.
 
 Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
-Repositorio GitHub: [Pega aquí el enlace al repositorio] Fecha de entrega: [DD/MM/2025]
+Repositorio GitHub: 
+
 
 © Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
