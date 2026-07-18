@@ -20,9 +20,6 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 ├── data/        # Clases para la carga y lectura de archivos .txt
 ├── utils/       # Utilidades y validaciones
 └── interfaces/  # Interfaces implementadas por las clases
-⚙️ Instrucciones para clonar y ejecutar el proyecto
-Clona el repositorio desde GitHub:
-Abre el proyecto en IntelliJ IDEA.
 
 Verifica que los archivos .txt estén correctamente ubicados.
 
