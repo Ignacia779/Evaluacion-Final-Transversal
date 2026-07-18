@@ -22,7 +22,6 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 └── interfaces/  # Interfaces implementadas por las clases
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clona el repositorio desde GitHub:
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
 Abre el proyecto en IntelliJ IDEA.
 
 Verifica que los archivos .txt estén correctamente ubicados.
