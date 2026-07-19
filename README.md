@@ -4,7 +4,7 @@
 
 Nombre completo: Ignacia Llanos
 
-Carrera: Analista Porgramador Computacional
+Carrera: Analista Programador Computacional
 
 Sede: online
 
